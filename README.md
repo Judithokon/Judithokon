@@ -12,9 +12,6 @@ Hi there 👋🏾, I’m Judith Okon<br><br>An aspiring Data Scientist 👩🏽�
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Judithokon&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Judithokon&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=likedbyJ)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Judithokon&icon=0&color=10)](https://visitcount.itsvg.in)
 
