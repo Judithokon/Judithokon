@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋🏾, I’m Judith Okon<br><br>An aspiring Data Scientist 👩🏽‍💻 saving the world one dataset at a time.<br><br>⚡️Fun Fact: I sing 🎤 and play the guitar 🎸 
+Hi there 👋🏾, I’m Judith Okon<br><br>A Data Scientist 👩🏽‍💻 saving the world one dataset at a time.<br><br>⚡️Fun Fact: I sing 🎤 and play the guitar 🎸 
 
 
 ## 🌐 Socials:
